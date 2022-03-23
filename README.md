@@ -14,7 +14,6 @@ Please Find Screenshots of Projects in ScreenShots Folder of this repository. Ma
 <h3>Deploy on Microsoft Azure:</h3>
 
   <ol><li>First step is to go to Azure portal Go to: https://portal.azure.com</li>
-<img src="Screenshots/Screenshot (432).png" height=400px width=700px/>
 <li>Click on create Resource(+) Select Web as categories, On the Basics tab, Enter the following values for each setting. Setting Value Details Project Details Subscription Select your Subscription The web app you are creating must belong to a resource group. Here, you select the Azure subscription to which the resource group belongs (or will belong, if you are creating it within the wizard). Resource Group Select your resource group The resource group to which the static web app will belong. All Azure resources must belong to a resource group. Static Web app details Name Enter a unique name The name of your web app. This name will be part of the app's URL: appname.azurewebsites.net. The name you choose must be unique among all Azure web apps. Plan Type Free:For hobby or personal projects
 Region Select the geographical region from which your app will be hosted. Source Select Github as we will deploy from github GitHub Account Click Signin with GitHub, enter credentials and connect your github account then it will shhow your Account name Organization GitHubAccountName Repository Name of repository where you have files/webpages Branch by default(main) or other branch if you have</li>
 
@@ -24,10 +23,8 @@ Region Select the geographical region from which your app will be hosted. Source
 
 <li>Azure Static Web App is Software as a service(SaaS), so we don't have to manage infrastracture or platform part like you don't have to manage Virtual Machines, the infrastructure is build and manged automatically by Microsoft Azure. Using SaaS we only have to manage Data+Access. Builing and Deploying on Static Web App service of Micrsoft Azure is easy.</li>
   </ol>
-  <h2>Demo of Azure Static web app: URL:</h2> https://lemon-flower-0f27cd310.1.azurestaticapps.net
+  <h2>Demo of Azure Static web app: URL:</h2> https://wonderful-desert-063c9d110.1.azurestaticapps.net
 <h3>Sample Screenshots of the Deployed Web App : </h3>
-<img src="Screenshots/Screenshot (434).png" height=400px width=700px/>
-<img src="Screenshots/Screenshot (435).png" height=400px width=700px/>
-<img src="Screenshots/Screenshot (436).png" height=400px width=700px/>
-<img src="Screenshots/Screenshot (437).png" height=400px width=700px/>
-<img src="Screenshots/Screenshot (438).png" height=400px width=700px/>
+<img src="Screenshots/Screenshot (439).png" height=400px width=700px/>
+<img src="Screenshots/Screenshot (440).png" height=400px width=700px/>
+<img src="Screenshots/Screenshot (441).png" height=400px width=700px/>
